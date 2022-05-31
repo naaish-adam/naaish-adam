@@ -1,6 +1,5 @@
 👋 Hi, I’m @naaish-adam
 
-- 👀 I mainly work with all things React & Node.js
 - 📫 You can reach me through [Telegram](https://t.me/LordLudd)
 
 <!---
